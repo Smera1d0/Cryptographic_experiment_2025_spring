@@ -72,6 +72,6 @@ int main()
     }
 
     cout << ( cor/( 1 << DATA ) ) << endl;
-    cout << ( log2(abs(cor/(1<<DATA)))) << endl;
+    cout << (log2(abs(cor/(1<<DATA)))) << endl;
 }
 
